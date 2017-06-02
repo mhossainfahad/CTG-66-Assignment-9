@@ -286,7 +286,9 @@ nav ul li a:focus {
 }
 
 .one_third img {
-    width: 70%;
+    max-width: 100%;
+    width: 200px;
+    height: 200px;
     margin: 0 auto;
     box-sizing: border-box;
     border-radius: 50%;
